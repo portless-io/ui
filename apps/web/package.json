@@ -20,6 +20,7 @@
     "@portless-io/tsconfig": "*",
     "@types/node": "^18.7.13",
     "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
     "eslint": "^8.23.0",
     "next-transpile-modules": "9.0.0",
     "typescript": "^4.8.2"
