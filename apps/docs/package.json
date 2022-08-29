@@ -9,19 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@portless-io/ui": "*",
     "next": "^12.2.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "ui": "*"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.13",
-    "eslint": "^8.22.0",
-    "eslint-config-custom": "*",
-    "next-transpile-modules": "9.0.0",
-    "tsconfig": "*",
+    "@babel/core": "^7.18.13",
+    "@portless-io/eslint-config-custom": "*",
+    "@portless-io/tsconfig": "*",
     "@types/node": "^18.7.13",
     "@types/react": "^18.0.17",
-    "typescript": "^4.7.4"
+    "eslint": "^8.23.0",
+    "next-transpile-modules": "9.0.0",
+    "typescript": "^4.8.2"
   }
 }

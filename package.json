@@ -14,12 +14,13 @@
     "prepare": "husky install"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.0.3",
-    "@commitlint/config-conventional": "^17.0.3",
-    "eslint-config-custom": "*",
+    "@commitlint/cli": "^17.1.1",
+    "@commitlint/config-conventional": "^17.1.0",
+    "@portless-io/eslint-config-custom": "*",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
     "prettier": "latest",
+    "ts-node": "^10.9.1",
     "turbo": "latest"
   },
   "engines": {
