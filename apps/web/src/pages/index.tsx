@@ -1,4 +1,5 @@
-import { Button } from "@portless-io/ui";
+import { Button } from "ui";
+import "ui/styles";
 
 export default function Web() {
   return (

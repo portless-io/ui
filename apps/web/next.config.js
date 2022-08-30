@@ -1,4 +1,4 @@
-const withTM = require("next-transpile-modules")(["@portless-io/ui"]);
+const withTM = require("next-transpile-modules")(["ui"]);
 
 module.exports = withTM({
   reactStrictMode: true,
